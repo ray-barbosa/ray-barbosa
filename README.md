@@ -1,52 +1,75 @@
-
 <!--
-**ray-barbosa/ray-barbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**ray-barbosa/ray-barbosa** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 -->
 
-# Hello World!
+<h1 align="center">👾 Hello World!</h1>
 
- My name is Ray Krishna, welcome to my github profile!!
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120" />
+</p>
 
-- 🔭 I’m currently working @BeesBR
-- 🌱 I’m currently learning Software Engineering
-- 😄 Pronouns: She/they
+<p align="center">
+  My name is <strong>Ray Krishna</strong>, welcome to my GitHub profile!!
+</p>
 
+---
 
-## Tools and technologies
+### 🧍 About me
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" heigth="40"/>
-           <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/> 
-            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" heigth="40" />
-            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40" heigth="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" heigth="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" heigth="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg" width="40" heigth="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40" heigth="40" />
-                    
+- 🔭 I’m currently working @ **BeesBR**
+- 🌱 I’m currently learning **Software Engineering**
+- 😄 Pronouns: **She / They**
+- 🎮 Arcade lover & curious backend mind
 
+---
 
-          
-                    
-<div>
-<a href="https://github.com/ray-barbosa">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ray-barbosa&layout=compact&langs_count=7&theme=dracula"/>
+## 🕹️ Arcade Mode: ON
 
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
-</div>
+*Snake eats bugs, commits, and capitalism.*
 
+---
 
-        
+## 🛠️ Tools & Technologies
 
-          
-          
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40"/>
+</p>
 
+---
 
+## 👻 Pac-Man is watching your commits
 
+<p align="center">
+  <img src="https://media.giphy.com/media/11GdBibqqMOXkc/giphy.gif" width="200" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/ray-barbosa">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ray-barbosa&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="80"/>
+  <br/>
+  <em>Game Over? Never. Continue coding.</em>
+</p>
