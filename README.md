@@ -50,13 +50,6 @@
 
 ---
 
-## 👻 Pac-Man is watching your commits
-
-<p align="center">
-  <img src="https://media.giphy.com/media/11GdBibqqMOXkc/giphy.gif" width="200" />
-</p>
-
----
 
 ## 📊 GitHub Stats
 
