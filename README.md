@@ -48,16 +48,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40"/>
 </p>
 
----
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/ray-barbosa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ray-barbosa&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</p>
 
 ---
 
