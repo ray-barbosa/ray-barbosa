@@ -17,7 +17,7 @@
 ### 🧍 About me
 
 - 🔭 I’m currently working @ **BeesBR**
-- 🌱 I’m currently learning **Software Engineering**
+- 🌱 I’m currently learning **Software Engineering** and also **Robotics Engineering** 
 - 😄 Pronouns: **She / They**
 - 🎮 Arcade lover & curious backend mind
 
