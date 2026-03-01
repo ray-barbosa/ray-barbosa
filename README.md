@@ -50,7 +50,17 @@
 
 
 ---
+<div align="center">
+  
+![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ray-barbosa&show_icons=true&theme=tokyonight&count_private=true&hide_border=false&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ray-barbosa&theme=tokyonight&hide_border=false&fire=00D4FF&ring=00D4FF&stroke=00D4FF&currStreakNum=00D4FF&sideNums=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=ffffff)
+
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ray-barbosa&layout=compact&theme=tokyonight&hide_border=false&title_color=00D4FF&text_color=ffffff)
+</div>
+
+
+---
 <p align="center">
   <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="80"/>
   <br/>
